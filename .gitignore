@@ -130,3 +130,9 @@ dmypy.json
 
 # alias
 *alias
+
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache/
