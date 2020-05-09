@@ -1,6 +1,6 @@
 ---
 title: LEARN BAYES WITH ME
-layout: page
+layout: default
 ---
 
 ## Plans:
