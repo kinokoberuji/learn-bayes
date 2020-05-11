@@ -19,8 +19,8 @@ Phương pháp Bayesian hoạt động tốt khi có dữ liệu ít, kèm theo 
 ## Cài đặt:
 - [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html): Phiên bản nhẹ của anaconda, một ứng dụng để download python và các packages, tạo môi trường biệt lập để làm việc cho từng project.
 - Sau khi cài đặt miniconda xong, bạn sẽ làm việc trong môi trường command promt trong windows hoặc terminal trong macos.
-    - command promt: search cortana -> gõ 'cmd' -> run
-    - terminal: search spotlight -> gõ "terminal" -> run
+    - command promt: search cortana -> gõ `cmd` -> run
+    - terminal: search spotlight -> gõ `terminal` -> run
     - gõ trong cmd `conda --version` để kiểm tra cài đặt thành công.
 - Cài đặt channel conda-forge: [conda-forge](https://conda-forge.org) là một channel của conda chứa hầu như các packages có trong python, mà khi bạn cài đặt thì không cần quan tâm đến sự tương thích các packages với nhau.
 ```
