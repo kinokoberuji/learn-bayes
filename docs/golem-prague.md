@@ -11,4 +11,6 @@ Các nhà khoa học cũng làm golem. Những golem đó không có hình thái
 
 ![cây quyết định ví dụ](/assets/images/figure 1-1.png)
 
+Thông thường những logic cứng của chúng cho ta những kết quả bị che giấu bới người thiết kế. Những kết quả này có thể là những phát hiện vô giá. Hoặc chúng cũng có thể có hành vi ngu ngốc và nguy hiểm. Thay vì những thiên thần lý do bị lý tưởng hoá, những model tính toán là robot đất sét mạnh mẽ nhưng bản thân không có suy nghĩ, chập chững theo những lệnh được đặt sẵn. Giống như golem Rabbi Judah, golem khoa học được công nhận là mạnh mẽ và cũng đầy nguy hiểm. Chúng ta chắc chắn cần chúng, những phải cẩn thận vì có những nguy cơ đi kèm.
 
+Có rất nhiều model thống kê. Khi một ai thực hiện một quy trình thống kê, như t-test, người đó là đang làm một con golem tính toán chính xác theo các bước có sẵn, cùng một quy trình cho mọi trường hợp, không một lời phàn nàn.
