@@ -1,5 +1,13 @@
-title: Learn Bayesian with me
-description: using Python, Pytorch, Numpyro, Arviz
+title: TỰ HỌC BAYESIAN STATISTICS
+description: bằng Python, Pytorch, Numpyro, Arviz
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
+
+defaults:
+  - 
+    scope: 
+      path: ""
+
+    values:
+      layout: "default"
