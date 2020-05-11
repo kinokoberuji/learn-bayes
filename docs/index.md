@@ -37,7 +37,7 @@ conda activate <env_name>
 ```
 - Cài đặt các packages sẽ dùng trong site này (sẽ update dần)
 ```
-conda install pytorch numpyro arviz jupyterlab pandas
+conda install pytorch numpyro arviz jupyterlab pandas causalgraphicalmodels daft
 ```
 - Mở Jupyter và code python trong đó
 ```
@@ -46,5 +46,11 @@ jupyter lab
 
 ## Học Python cơ bản
 Bạn cần phải biết Python. Nếu bạn mới bắt đầu thì có thể tìm hiểu cơ bản qua [tutorials trong python doc.](https://docs.python.org/3.7/tutorial/index.html)  
+
+## [Mục lục](./table_of_content.html)
+
+## Nguồn tài liệu tham khảo
+- Statistical Rethinking - Richard McElreath 
+- [rethinking-pyro](https://github.com/fehiepsi/rethinking-pyro) & [rethinking-numpyro](https://github.com/fehiepsi/rethinking-numpyro) - Du Phan
 
 # Chúc các bạn thành công
