@@ -3,7 +3,7 @@ description: "bằng Python, Pytorch, Numpyro, Arviz"
 show_downloads: false
 encoding: utf-8
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 defaults:
   - 
