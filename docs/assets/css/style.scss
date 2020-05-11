@@ -2,7 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
+.btn {
+  color: rgba(241, 70, 17, 0.7);
+  background-color: rgba(241, 70, 17, 0.08);
+  border-color: rgba(241, 70, 17, 0.2);
+
+  &:hover {
+    color: rgba(241, 70, 17, 0.8);
+    background-color: rgba(241, 70, 17, 0.2);
+    border-color: rgba(241, 70, 17, 0.3);
+  }
+}
 
 .page-header {
-  background-image: radial-gradient(circle, yellow, green, blue);
+  background-image: radial-gradient(circle, yellow, green, blue 10%);
 }
