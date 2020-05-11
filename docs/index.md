@@ -12,4 +12,39 @@ Ví dụ: Chúng ta phải ước lượng được sự không chắc chắn kh
 Từ model đó, ta có thể dùng để dự đoán và kèm theo đó là một độ tin cậy được biểu diễn bằng phân phối.  
 Phương pháp Bayesian hoạt động tốt khi có dữ liệu ít, kèm theo khái niệm độ tin cậy, và có thể diễn giải được.
 
-**Probabilistic programming** là một dạng lập trình bậc cao, có ưu điểm che đậy các phép tính toán phức tạp trong phương pháp bayesian.
+**Probabilistic programming** là một dạng lập trình bậc cao, có ưu điểm che đậy các phép tính toán phức tạp trong phương pháp bayesian.  
+
+# Bắt đầu với Probabilistic programming
+
+## Cài đặt:
+- [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html): Phiên bản nhẹ của anaconda, một ứng dụng để download python và các packages, tạo môi trường biệt lập để làm việc cho từng project.
+- Sau khi cài đặt miniconda xong, bạn sẽ làm việc trong môi trường command promt trong windows hoặc terminal trong macos.
+    - command promt: search cortana -> gõ 'cmd' -> run
+    - terminal: search spotlight -> gõ "terminal" -> run
+    - gõ trong cmd `conda --version` để kiểm tra cài đặt thành công.
+- Cài đặt channel conda-forge: [conda-forge](https://conda-forge.org) là một channel của conda chứa hầu như các packages có trong python, mà khi bạn cài đặt thì không cần quan tâm đến sự tương thích các packages với nhau.
+```
+conda config --add channels conda-forge 
+conda config --set channel_priority strict 
+```
+- Tạo môi trường mới với \<env_name\> là tên bạn chọn với python=3.7: 
+```
+conda create --name <env_name> python=3.7
+```
+- Kích hoạt env:
+```
+conda activate <env_name>
+```
+- Cài đặt các packages sẽ dùng trong site này (sẽ update dần)
+```
+conda install pytorch numpyro arviz jupyterlab pandas
+```
+- Mở Jupyter và code python trong đó
+```
+jupyter lab
+```
+
+## Học Python cơ bản
+Bạn cần phải biết Python. Nếu bạn mới bắt đầu thì có thể tìm hiểu cơ bản qua [tutorials trong python doc.](https://docs.python.org/3.7/tutorial/index.html)  
+
+# Chúc các bạn thành công
