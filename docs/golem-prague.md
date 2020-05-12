@@ -1,6 +1,6 @@
 ---
-title: Chapter 1. The Golem of Prague
-description: Chương 1: Golem xứ sở Prague
+title: "Chapter 1. The Golem of Prague"
+description: "Chương 1: Golem xứ sở Prague"
 ---
 
 Vào thế kỷ thứ 16, Gia tộc Habsburg kiểm soát hầu như Châu Âu, Hà Lan, Tây Ban Nha, và cả quân đội Tây Ban Nha tại Mỹ. Gia tộc này có lẽ là có sức mạnh lớn nhất thể giới lúc bấy giờ, với Mặt trời luôn toả sáng ở một phần của gia tộc họ. Người đứng đầu là Holy Roman Emperor, và vị này sống ở Prague. Emperor cuối thể kỷ 16, Rudolph II, thích một cuộc sống nhiều trí tuệ. Ông đầu tư vào nghệ thuật, khoa học (bao gồm thiên văn học và giả kim thuật), toán học, làm cho Prague trở thành trung tâm thế giới về giáo dục. Với môi trường học thuật này thì rất sớm để hình thành con robot, the Golem of Prague.  
